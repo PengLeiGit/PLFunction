@@ -1,0 +1,6 @@
+framework module Pods_PLFunction_Tests {
+  umbrella header "Pods-PLFunction_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

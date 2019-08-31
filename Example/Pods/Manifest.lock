@@ -1,0 +1,16 @@
+PODS:
+  - PLFunction (0.1.0)
+
+DEPENDENCIES:
+  - PLFunction (from `../`)
+
+EXTERNAL SOURCES:
+  PLFunction:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PLFunction: 526e0f2e91c87f50b4ed74fa1e54b23d8bb65022
+
+PODFILE CHECKSUM: 6519e7e3ee724fdc1b7d348a397e8957d8f053e6
+
+COCOAPODS: 1.7.1

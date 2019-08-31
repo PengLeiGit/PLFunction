@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PLFunction_Example' do
+  pod 'PLFunction', :path => '../'
+
+  target 'PLFunction_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

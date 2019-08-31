@@ -1,0 +1,6 @@
+framework module Pods_PLFunction_Example {
+  umbrella header "Pods-PLFunction_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
