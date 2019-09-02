@@ -1,5 +1,7 @@
 PODS:
-  - PLFunction (0.1.0)
+  - PLFunction (0.1.1):
+    - PLFunction/PLRoute (= 0.1.1)
+  - PLFunction/PLRoute (0.1.1)
 
 DEPENDENCIES:
   - PLFunction (from `../`)
@@ -9,7 +11,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  PLFunction: 526e0f2e91c87f50b4ed74fa1e54b23d8bb65022
+  PLFunction: e2084e9ff6e38c0bcb2d78971768383c72080a7f
 
 PODFILE CHECKSUM: 6519e7e3ee724fdc1b7d348a397e8957d8f053e6
 
