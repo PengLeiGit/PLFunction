@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'PLFunction'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = '独立功能集成'
 
 # This description is used to generate tags and improve search results.
@@ -34,6 +34,10 @@ TODO: Add long description of the pod here.
   # s.source_files = 'PLFunction/Classes/**/*'
   s.subspec 'PLRoute' do |ss|
       ss.source_files = "PLFunction/Classes/PLRoute/*.swift"
+  end
+  
+  s.subspec 'AppStore' do |ss|
+      ss.source_files = "PLFunction/Classes/AppStore/*.swift"
   end
   # s.resource_bundles = {
   #   'PLFunction' => ['PLFunction/Assets/*.png']
